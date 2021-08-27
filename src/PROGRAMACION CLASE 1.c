@@ -22,9 +22,9 @@ int main(void)
 	//TIPO NOMBRE;
 	int a; // numeros enteros
 
-	//float f; // numeros con decimales
+	float f; // numeros con decimales
 
-	//char c; // un solo caracter
+	char c; // un solo caracter
 
 	printf("Ingresame tu edad:");
 
